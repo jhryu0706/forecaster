@@ -1,0 +1,4 @@
+,seq_time
+small,172169.8
+mixed,9095357.2
+large,46783955.2

@@ -1,0 +1,7 @@
+{"size":200000,"symbol":"SPY","percentage_change":5, "in_x_days":20}
+{"size":1000000,"symbol":"AAPL","percentage_change":3.5,"in_x_days":5}
+{"size":500000,"symbol":"GOOGL","percentage_change":1.8,"in_x_days":17}
+{"size":800000,"symbol":"MSFT","percentage_change":4.2,"in_x_days":30}
+{"size":150000,"symbol":"TSLA","percentage_change":2.9,"in_x_days":100}
+{"size":120000,"symbol":"AMZN","percentage_change":6.1,"in_x_days":400}
+{"size":0,"symbol":"TERM_SIG","percentage_change":0,"in_x_days":0}

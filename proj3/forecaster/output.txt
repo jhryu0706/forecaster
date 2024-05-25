@@ -1,0 +1,6 @@
+{"probability":0.1931215253896229,"request_info":{"size":5000,"symbol":"TSLA","percentage_change":2.9,"in_x_days":100}}
+{"probability":0.4625933544853137,"request_info":{"size":5000,"symbol":"MSFT","percentage_change":4.2,"in_x_days":30}}
+{"probability":0.4762267329531421,"request_info":{"size":5000,"symbol":"AAPL","percentage_change":3.5,"in_x_days":5}}
+{"probability":0.7060699621534477,"request_info":{"size":5000,"symbol":"AMZN","percentage_change":6.1,"in_x_days":400}}
+{"probability":0.7499780495402009,"request_info":{"size":5000,"symbol":"GOOGL","percentage_change":1.8,"in_x_days":17}}
+{"probability":0.5472232499301313,"request_info":{"size":5000,"symbol":"SPY","percentage_change":5,"in_x_days":20}}
